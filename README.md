@@ -1,6 +1,6 @@
 ---
 title: Yahya Batulu - Bionluk
-layout: template
+theme: default
 filename: README.md
 --- 
 
