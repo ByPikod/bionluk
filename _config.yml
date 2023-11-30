@@ -25,6 +25,7 @@ exclude:
   - "*.gem"
   - README.md
   - CODE_OF_CONDUCT.md
+  - vendor
 
 callouts:
   highlight:
