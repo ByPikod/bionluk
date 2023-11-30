@@ -1,25 +1,18 @@
+---
+layout: default
+title: Görselden HTML'e
+parent: İş İlanları
+---
+
 # Görselden HTML'e
 
 Bana göndereceğiniz görselleri HTML'e çevirerek teslim ediyorum.
 
+## Özet
+
+- Bu iş ilanı için kullanabileceğim teknolojiler başlıca HTML5, CSS3, SASS, Javascript, jQuery, Bootstrap, React, Next JS ve TailwindCSS'dir. Daha fazla bilgi için [kullanabileceğim teknolojiler](#kullanabileceğim-teknolojiler) bölümüne göz atabilirsiniz.
+- Daha önceki çalışmalarıma [önceki çalışmalarım](#önceki-çalışmalarım) bölümünden atabilirsiniz.
 - Çıktı statik bir web sitesi olacaktır. Statik web sitesi kısaca etkileşimde bulunamayacağınız web siteleridir. Statik web siteleri hakkında daha fazla bilgi için [buraya](#statik-web-sitesi-nedir) göz atabilirsiniz.
-- Bu iş ilanı için kullanabileceğim teknolojileri [burada](#kullanabileceğim-teknolojiler-🔧) bulabilirsiniz.
-
-## Statik Web Sitesi Nedir?
-
-Statik web sitesi, içeriği sabit olan ve kullanıcıların gelişmiş etkileşimlerde bulunamadığı web siteleridir. Bu web siteleri genellikle HTML, CSS ve JavaScript gibi teknolojiler kullanılarak oluşturulur. Statik web siteleri, dinamik web sitelerine göre daha hızlıdır. Çünkü statik web siteleri, içeriklerini her istekte yeniden oluşturmak zorunda değildir. Bu nedenle statik web siteleri, içerikleri değişmeyen web siteleri için idealdir.
-
-Statik web siteleri içeremez;
-
-- Giriş Yapma / Kayıt Olma gibi işlevler
-- Yönetim Paneli
-- İzleme / Analiz
-- Yorum Yapma / Yorumları Görüntüleme
-- Beğenme / Beğenmeme
-- Arama
-
-> [!IMPORTANT]
-> Dinamik web siteleri için diğer iş ilanlarıma göz atabilirsiniz.
 
 ## Kullanabileceğim Teknolojiler
 
@@ -36,8 +29,8 @@ Statik web siteleri içeremez;
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-> [!NOTE]
-> :money_with_wings: Bu teknolojilerden bazıları extra ücret gerektirebilir. Bu konuda bilgi almak için lütfen iletişime geçiniz.
+{: .note }
+> Bu teknolojilerden bazıları extra ücret gerektirebilir. Bu konuda bilgi almak için lütfen iletişime geçiniz."
 
 ## Önceki Çalışmalarım
 
@@ -47,7 +40,23 @@ Statik web siteleri içeremez;
 
 İş sonunda tasarım web sitesi olarak teslim edilmeyecektir. Bu iş ilanı sadece görselden HTML'e çevirme işini kapsamaktadır. İş sonunda proje dosyaları teslim edilecektir.
 
-> [!WARNING]
-> Bu dosyaların web sitesi olarak kullanılması için bir sunucuya yüklenmesi gerekmektedir. Web sitenin alan adı için bir domain satın alınması gerekmektedir. Bu işlemler için diğer iş ilanlarıma göz atabilirsiniz.
+{: .warning }
+Bu dosyaların web sitesi olarak kullanılması için bir sunucuya yüklenmesi gerekmektedir. Web sitenin alan adı için bir domain satın alınması gerekmektedir. Bu işlemler için diğer iş ilanlarıma göz atabilirsiniz.
 
 Bu konu hakkında aklınıza takılan sorular için iletişime geçmekten çekinmeyin, yardım etmekten mutluluk duyarım!
+
+### Statik Web Sitesi Nedir?
+
+Statik web sitesi, içeriği sabit olan ve kullanıcıların gelişmiş etkileşimlerde bulunamadığı web siteleridir. Bu web siteleri genellikle HTML, CSS ve JavaScript gibi teknolojiler kullanılarak oluşturulur. Statik web siteleri, dinamik web sitelerine göre daha hızlıdır. Çünkü statik web siteleri, içeriklerini her istekte yeniden oluşturmak zorunda değildir. Bu nedenle statik web siteleri, içerikleri değişmeyen web siteleri için idealdir.
+
+Statik web siteleri içeremez;
+
+- Giriş Yapma / Kayıt Olma gibi işlevler
+- Yönetim Paneli
+- İzleme / Analiz
+- Yorum Yapma / Yorumları Görüntüleme
+- Beğenme / Beğenmeme
+- Arama
+
+{: .important }
+Dinamik web siteleri için diğer iş ilanlarıma göz atabilirsiniz.

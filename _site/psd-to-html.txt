@@ -1,5 +1,0 @@
-Kendimi uzun süredir yazılım alanında geliştirmekte olan biri olarak PSD, PNG, JPG, PDF ve benzeri dosya formatlarındaki görsel tasarımlarınızı sizin için statik bir web sitesine dönüştürebilirim. 
-
-Bunu yaparken kullanacağım yada kullanabileceğim araçlar başlıca React, SASS, HTML, CSS, JavaScript ve TypeScript'tir. Kullanılmasına ihtiyacınız olan özel bir kütüphane yada programlama dili varsa iletişime geçebilirsiniz.
-
-İşle ilgili detaylara linkten ulaşabilirsiniz;  https://www.yahyabatulu.com/bionluk#görselden-htmle

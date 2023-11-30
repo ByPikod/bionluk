@@ -1,3 +1,62 @@
+title: Bionluk
+description: Yahya Batulu Bionluk İş İlanları
+baseurl: ""
+url: "https://www.yahyabatulu.com"
+repository: ByPikod/bionluk
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+nav_external_links:
+  - title: Yahya Batulu | Bionluk
+    url: https://bionluk.com/yahyabatulu
+  - title: Yahya Batulu | LinkedIn
+    url: https://www.linkedin.com/in/yahyabatulu/
+  - title: Yahya Batulu | GitHub
+    url: https://www.github.com/ByPikod
+
+theme: just-the-docs
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - Gemfile
+  - Gemfile.lock
+  - "*.gemspec"
+  - "*.gem"
+  - README.md
+  - CODE_OF_CONDUCT.md
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
+
 plugins:
   - jekyll-remote-theme
   - jemoji
